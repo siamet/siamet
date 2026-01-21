@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I build intelligent systems that operate at the intersection of automation, photonics, AI, and precision engineering. From developing sub-nanometer AI and Vision-based Framework super-resolution techniques for semiconductor packaging to architecting scalable fintech platforms, I transform complex physical phenomena into actionable intelligence through physics-informed neural network, machine learning and advanced control systems.
+I build intelligent systems that operate at the intersection of automation, photonics, AI, and precision engineering. From developing sub-nanometer AI and Vision-based Framework for semiconductor packaging to architecting scalable fintech platforms, I transform complex physical phenomena into actionable intelligence through physics-informed neural network, machine learning and advanced control systems.
 
 ---
 
