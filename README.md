@@ -2,7 +2,7 @@
 
 # Hi there, I'm Englad 👋
 
-### Mechatronics Engineer | AI Researcher | Optical Systems Specialist
+### Mechatronics Engineer | AI Researcher | Optics, Software and Systems Engineer
 
 </div>
 
@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I build intelligent systems that operate at the intersection of automation, photonics, AI, and precision engineering. From developing sub-nanometer super-resolution techniques for semiconductor inspection to architecting scalable fintech platforms, I transform complex physical phenomena into actionable intelligence through physics-informed machine learning and advanced control systems.
+I build intelligent systems that operate at the intersection of automation, photonics, AI, and precision engineering. From developing sub-nanometer AI and Vision-based Framework super-resolution techniques for semiconductor packaging to architecting scalable fintech platforms, I transform complex physical phenomena into actionable intelligence through physics-informed neural network, machine learning and advanced control systems.
 
 ---
 
