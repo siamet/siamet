@@ -39,10 +39,10 @@
 
   ### Open Source
   - 🚀 **[cuFEM](https://github.com/siamet/cuFEM)** – A GPU-Accelerated Finite Element Method Solver for Partial Differential Equations.
-  - 👀 **[multi-agent-code-review](https://github.com/siamet/multi-agent-code-review)** – A GPU-Accelerated Finite Element Method Solver for Partial Differential Equations.
+  - 👀 **[Mavr](https://github.com/siamet/multi-agent-code-review)** – A multi-agent system that autonomously analyzes codebases to propose refactorings.
 
   ### Closed Source
-  - 🕸️ **[TwinAOI](https://wwww.shello.net/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
+  - 🕸️ **[TwinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
   - 🫐 **[Shello](https://wwww.shello.net/)** – AI platform for autonomous infrastructure inspection.
   - 🍺 **[Bipp](https://wwww.bippfinance.com/)** – A payment platform that enables multi-currency transactions.
 
