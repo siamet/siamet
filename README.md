@@ -43,7 +43,7 @@
 
   ### Closed Source
   - 🕸️ **[TwinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
-  - 🫐 **[Shello](https://wwww.shello.net/)** – AI platform for autonomous infrastructure inspection.
+  - 🫐 **[Shello](https://wwww.shello.one/)** – AI platform for autonomous infrastructure inspection.
   - 🍺 **[Bipp](https://wwww.bippfinance.com/)** – A payment platform that enables multi-currency transactions.
 
 
