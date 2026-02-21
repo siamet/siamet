@@ -2,7 +2,7 @@
 
 # Hi there, I'm Englad 👋
 
-### Mechatronics Engineer | AI Researcher | Software and Systems Engineer
+### Engineering Autonomous Systems | Context Architecture • Agent Systems • GPU / Parallel Computing • Simulation/ Digital Twin • Computer Vision
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -31,7 +31,7 @@
 
 ## 🚀 About Me
 
-> Building intelligent systems that operate at the intersection of automation, control system, photonics, AI, and precision engineering in the age of AI.
+> I design and build high-performance intelligent systems — from context orchestration to GPU-accelerated execution in the age of modern AI.
 
 ---
 
@@ -40,9 +40,9 @@
   ### Open Source
   - 🚀 **[cuFEM](https://github.com/siamet/cuFEM)** – A GPU-Accelerated Finite Element Method Solver for Partial Differential Equations.
   - 👀 **[Mavr](https://github.com/siamet/multi-agent-code-review)** – A multi-agent system that autonomously analyzes codebases to propose refactorings.
+  - 🕸️ **[TwinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
 
   ### Closed Source
-  - 🕸️ **[TwinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
   - 🫐 **[Shello](https://wwww.shello.one/)** – AI platform for autonomous infrastructure inspection.
   - 🍺 **[Bipp](https://wwww.bippfinance.com/)** – A payment platform that enables multi-currency transactions.
 
