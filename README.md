@@ -2,7 +2,7 @@
 
 # Hi there, I'm Englad 👋
 
-### Engineering Autonomous Systems | Context Architecture • Agent Systems • GPU / Parallel Computing • Simulation/ Digital Twin • Computer Vision
+### Context Architecture • Agent Systems • GPU / Parallel Computing • Simulation/ Digital Twin • Computer Vision
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
