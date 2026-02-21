@@ -2,7 +2,8 @@
 
 # Hi there, I'm Englad 👋
 
-### Context Architecture • Agent Systems • GPU / Parallel Computing • Simulation/ Digital Twin • Computer Vision
+### Intelligence Systems • Context Architecture • GPU / Parallel Computing
+### Simulation/ Digital Twin • Computer Vision
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -31,7 +32,7 @@
 
 ## 🚀 About Me
 
-> I design and build high-performance intelligent systems — from context orchestration to GPU-accelerated execution in the age of modern AI.
+> I design and build high-performance intelligent systems, from context orchestration to GPU-accelerated execution in the age of modern AI.
 
 ---
 
