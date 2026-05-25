@@ -3,23 +3,15 @@
 # Hi there, I'm Englad 👋
 
 ### High-Performance Intelligence Systems & Architecture
-#### Simulation/ Digital Twin • Computer Vision • Neural Network • Semiconductor Packaging
+#### Neural Network • Simulation/ Digital Twin • Computer Vision • Semiconductor Packaging
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -41,9 +33,10 @@
   - 🚀 **[cuFEM](https://github.com/siamet/cuFEM)** – A GPU-Accelerated Finite Element Method Solver for Partial Differential Equations.
   - 👀 **[Mavr](https://github.com/siamet/multi-agent-code-review)** – A multi-agent system that autonomously analyzes codebases to propose refactorings.
   - 🕸️ **[TwinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
+  - 🕹️ **[Kalib](https://github.com/siamet/kalib/)** – A Microscopy Control system to provide control for cameras and PI motion stages. 
 
   ### Closed Source
-  - 🫐 **[Shello](https://wwww.shello.one/)** – AI platform for autonomous infrastructure inspection.
+  - 🫐 **[Shello](https://wwww.shello.one/)** – A platform for autonomous infrastructure inspection.
   - 🍺 **[Bipp](https://wwww.bippfinance.com/)** – A payment platform that enables multi-currency transactions.
 
 
