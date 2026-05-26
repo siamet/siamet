@@ -3,7 +3,7 @@
 # Hi there, I'm Englad 👋
 
 ### High-Performance Intelligence Systems & Architecture
-#### Neural Network • Simulation/ Digital Twin • Computer Vision • Semiconductor Packaging
+#### Agentic System • Simulation/ Digital Twin • Computer Vision • Semiconductor Packaging
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
