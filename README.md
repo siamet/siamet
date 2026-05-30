@@ -1,9 +1,7 @@
-<div align="center">
 
 # Hi there, I'm Englad 👋
 
 ### High-Performance Intelligence Systems & Architecture
-#### Agentic System • Simulation/ Digital Twin • Computer Vision • Semiconductor Packaging
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -12,22 +10,19 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![ROS](https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white)
-
-</div>
 
 ---
 
 ## 🚀 About Me
 
-> I design and build high-performance intelligent systems, from context orchestration to GPU-accelerated execution in the age of modern AI.
+> I design and build high-performance intelligent systems, from agentic orchestration to GPU-accelerated execution in the age of modern AI.
 
 ---
 
-## 💡 Projects
+## 💡 Current Projects
 
   ### Open Source
   - 🚀 **[cuFEM](https://github.com/siamet/cuFEM)** – A GPU-Accelerated Finite Element Method Solver for Partial Differential Equations.
