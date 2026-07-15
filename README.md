@@ -23,21 +23,36 @@
 
 ---
 
-## 💡 Current Projects
+## Current Projects
 
-  ### Open Source
-  - 🚀 **[cuFEM](https://github.com/siamet/cuFEM)** – A GPU-Accelerated Finite Element Method Solver for Partial Differential Equations.
-  - 🌊 **[deepAOI](https://github.com/siamet/deepAOI)** - A deep learning-based automated optical inspection algorithm for defect detection.
+  ### 𝗔𝗜 & Agentic
   - 👀 **[mavr](https://github.com/siamet/mavr)** – A multi-agent system that autonomously analyzes codebases to propose refactorings.
-  - 🕸️ **[twinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
+  
+  ### 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻
+  - 🌊 **[deepAOI](https://github.com/siamet/deepAOI)** - A deep learning-based automated optical inspection algorithm for defect detection.
+  - 🗃️ **[lowlightnet](https://github.com/siamet/lowlightnet/)** - A deep learning-based image enhancement algorithm for low-light imaging.
   - 🕹️ **[kalib](https://github.com/siamet/kalib/)** – A Microscopy Control system to provide control for cameras and PI motion stages. 
 
-  ### Closed Source
-  - 🗃️ **[lowLightNet](https://github.com/siamet/lowlightnet/)** - A deep learning-based image enhancement algorithm for low-light imaging.
+  ### 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗶𝗼𝗻
+  - 🚀 **[cuFEM](https://github.com/siamet/cuFEM)** – A GPU-Accelerated Finite Element Method Solver for Partial Differential Equations
+
+
+  ### 𝗣𝗵𝘆𝘀𝗶𝗰𝘀-𝗜𝗻𝗳𝗼𝗿𝗺𝗲𝗱 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀
+  - 🕸️ **[twinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
+  
+
+  ### 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 & 𝗠𝗲𝗰𝗵𝗮𝘁𝗿𝗼𝗻𝗶𝗰𝘀
   - 📍 **[olidar](https://github.com/siamet/olidar/)** - A lightweight LiDAR-based algorithm for autonomous navigation.
+
+
+  ### 𝗦𝗲𝗺𝗶𝗰𝗼𝗻𝗱𝘂𝗰𝘁𝗼𝗿 𝗣𝗮𝗰𝗸𝗮𝗴𝗶𝗻𝗴
+  - 🕸️ **[twinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
+
+---
+  
+## Major Builds
   - 🫐 **[Shello](https://wwww.shello.one/)** – A platform for autonomous infrastructure inspection.
   - 🍺 **[Bipp](https://wwww.bippfinance.com/)** – A payment platform that enables multi-currency transactions.
-
 
 ---
 
