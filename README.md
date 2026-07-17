@@ -1,7 +1,7 @@
 
 # Hi there, I'm Englad 👋
 
-### High-Performance Intelligence Systems & Architecture
+### High-Performance Intelligence Systems Design & Architecture
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
@@ -19,31 +19,28 @@
 
 ## 🚀 About Me
 
-> I design and build high-performance intelligent systems, from agentic orchestration to GPU-accelerated execution in the age of modern AI.
+> I design and build high-performance intelligent systems, from next-generation cognitive orchestration, through deep GPU optimization and hardware-level acceleration, to advanced optics simulations, machines precision movement in the age of modern AI.
 
 ---
 
 ## Current Projects
 
-  ### 𝗔𝗜 & Agentic
+  ### 𝗔𝗜 & 𝗔G𝗜
   - 👀 **[mavr](https://github.com/siamet/mavr)** – A multi-agent system that autonomously analyzes codebases to propose refactorings.
   
-  ### 𝗖𝗼𝗺𝗽𝘂𝘁𝗲𝗿 𝗩𝗶𝘀𝗶𝗼𝗻
+  ### 𝗠𝗮𝗰𝗵𝗶𝗻𝗲 𝗩𝗶𝘀𝗶𝗼𝗻 & 𝗔𝗢𝗜
   - 🌊 **[deepAOI](https://github.com/siamet/deepAOI)** - A deep learning-based automated optical inspection algorithm for defect detection.
   - 🗃️ **[lowlightnet](https://github.com/siamet/lowlightnet/)** - A deep learning-based image enhancement algorithm for low-light imaging.
   - 🕹️ **[kalib](https://github.com/siamet/kalib/)** – A Microscopy Control system to provide control for cameras and PI motion stages. 
 
-  ### 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗶𝗼𝗻
+  ### 𝗛𝗮𝗿𝗱𝘄𝗮𝗿𝗲 𝗔𝗰𝗰𝗲𝗹𝗲𝗿𝗮𝘁𝗶𝗼𝗻 & 𝗢𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻
   - 🚀 **[cuFEM](https://github.com/siamet/cuFEM)** – A GPU-Accelerated Finite Element Method Solver for Partial Differential Equations
 
-
-  ### 𝗣𝗵𝘆𝘀𝗶𝗰𝘀-𝗜𝗻𝗳𝗼𝗿𝗺𝗲𝗱 𝗦𝗶𝗺𝘂𝗹𝗮𝘁𝗶𝗼𝗻𝘀
+  ### 𝗣𝗵𝘆𝘀𝗶𝗰𝘀-𝗕𝗮𝘀𝗲𝗱 𝗠𝗼𝗱𝗲𝗹𝗶𝗻𝗴 & 𝗦𝘆𝗻𝘁𝗵𝗲𝘁𝗶𝗰 𝗗𝗮𝘁𝗮
   - 🕸️ **[twinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
   
-
   ### 𝗥𝗼𝗯𝗼𝘁𝗶𝗰𝘀 & 𝗠𝗲𝗰𝗵𝗮𝘁𝗿𝗼𝗻𝗶𝗰𝘀
   - 📍 **[olidar](https://github.com/siamet/olidar/)** - A lightweight LiDAR-based algorithm for autonomous navigation.
-
 
   ### 𝗦𝗲𝗺𝗶𝗰𝗼𝗻𝗱𝘂𝗰𝘁𝗼𝗿 𝗣𝗮𝗰𝗸𝗮𝗴𝗶𝗻𝗴
   - 🕸️ **[twinAOI](https://github.com/siamet/twin-aoi/)** – A Physics-Guided Hybrid Digital Twin Framework for Enhanced Optical Metrology.
